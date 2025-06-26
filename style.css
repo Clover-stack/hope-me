@@ -463,11 +463,11 @@ padding: 40px 0;
     }
 
     .blacks .container {
-        background: url('../lend.jpeg') no-repeat;
+        background: url('./lend.jpeg') no-repeat;
         background-size: 350px 500px;
         background-position: top;
         height:500px;
-         text-align: center;
+        text-align: center;
     }
 
      .blacks-content, .blacks-text {
